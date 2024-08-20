@@ -1,12 +1,12 @@
-hi, i'm gustavo!
+**hi, i'm ⟨gustavo⟩ !** 
 
-► brazilian - (pt/br + english)  
-   ↳ systems analysis and development & android developer
+>▸brazilian - (pt/br + english)  
+‎ ‎‎ ‎ ‎↳ systems analysis and development & android developer
 
-► techs
-  ↳ kotlin, python, java & c
-  ↳ html, css e js
-  ↳ postgresql e mysql
+>▸techs<br />
+‎ ‎‎ ‎ ↳ kotlin, python, java & c<br />
+‎ ‎‎ ‎ ↳ html, css & js<br />
+‎ ‎‎ ‎ ↳ postgresql & mysql
 
 <div align="left">
   <a href="mailto:contatogustavoallves@gmail.com" target="_blank">
