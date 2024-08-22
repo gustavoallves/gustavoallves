@@ -6,7 +6,7 @@
 >▸techs<br />
 ‎ ‎‎ ‎ ↳ kotlin, python, java & c<br />
 ‎ ‎‎ ‎ ↳ html, css & js<br />
-‎ ‎‎ ‎ ↳ postgresql & mysql
+‎ ‎‎ ‎ ↳ mysql
 
 <div align="left">
   <a href="mailto:contatogustavoallves@gmail.com" target="_blank">
