@@ -4,7 +4,7 @@
 ‎ ‎‎ ‎ ‎↳ systems analysis and development & android developer
 
 >▸techs<br />
-‎ ‎‎ ‎ ↳ kotlin, python, java & c<br />
+‎ ‎‎ ‎ ↳ kotlin, java, python & c<br />
 ‎ ‎‎ ‎ ↳ html, css & js<br />
 ‎ ‎‎ ‎ ↳ mysql
 
