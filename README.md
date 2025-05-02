@@ -1,12 +1,8 @@
-**hi, i'm ⟨gustavo⟩ !** 
+**Prazer! Sou ⟨Gustavo⟩ !** 
 
->▸brazilian - (pt/br + english)  
-‎ ‎‎ ‎ ‎↳ systems analysis and development & android developer
+>▸Sou Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, com foco em desenvolvimento backend e mobile. 
 
->▸techs<br />
-‎ ‎‎ ‎ ↳ kotlin, java, python & c<br />
-‎ ‎‎ ‎ ↳ html, css & js<br />
-‎ ‎‎ ‎ ↳ mysql
+>▸Minhas principais stacks são Java e Kotlin, com conhecimentos sólidos em Spring Boot, Jetpack Compose, MVVM, SQL e Room.
 
 <div align="left">
   <a href="mailto:contatogustavoallves@gmail.com" target="_blank">
