@@ -1,8 +1,8 @@
 **Prazer! Sou ⟨Gustavo⟩ !** 
 
->▸Sou Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, com foco em desenvolvimento backend e mobile. 
+>▸Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, com foco em desenvolvimento backend & mobile. 
 
->▸Minhas principais stacks são Java e Kotlin, com conhecimentos sólidos em Spring Boot, Jetpack Compose, MVVM, SQL e Room.
+>▸Conhecimentos sólidos em Java, Kotlin, Spring Boot, Jetpack Compose e SQL.
 
 <div align="left">
   <a href="mailto:contatogustavoallves@gmail.com" target="_blank">
