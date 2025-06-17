@@ -2,7 +2,7 @@
 
 >▸Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, com foco em desenvolvimento backend & mobile. 
 
->▸Conhecimentos sólidos em Java, Kotlin, Spring Boot, Jetpack Compose e SQL.
+>▸Conhecimentos em Java, Kotlin, Spring Boot, Jetpack Compose e SQL.
 
 <div align="left">
   <a href="mailto:contatogustavoallves@gmail.com" target="_blank">
