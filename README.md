@@ -50,11 +50,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
   </a>
 </p>
-      
-<br>
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoalives&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalives&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 <td width="35%" valign="top">
