@@ -54,7 +54,7 @@
 </td>
 <td width="35%" valign="top">
 
-<img src="https://tenor.com/pt-BR/view/aesthetic-anime-future-gif-9177998" alt="Coding GIF" align="right">
+<img src="https://media.tenor.com/1vS4bV_2nIAAAAAC/aesthetic-anime.gif" alt="Coding GIF" align="right">
   
 </td>
 </tr>
