@@ -31,7 +31,7 @@
       </p>
     </td>
     <td width="35%" valign="top">
-      <img src="https://github.com/user-attachments/assets/75c97d41-c724-4c84-8501-cc5697eb3bdb" alt="Coding GIF" width="100%">
+      <img src="https://github.com/user-attachments/assets/59328cc0-598b-4d41-a956-773809767384" alt="Coding GIF" width="100%">
     </td>
   </tr>
 </table>
