@@ -12,8 +12,9 @@
       </sub>
       <h3>👨‍💻 Sobre mim</h3>
       <ul style="list-style-type: disc;">
-        <li>🎓 Engenharia de Software na <strong>Escola 42</strong>.</li>
-        <li>🎓 Análise e Desenvolvimento de Sistemas (2023-2025).</li>
+        <li>🎓 Engenharia de Software - GRAN (2025-2029)</li>
+        <li>🎓 Escola 42</li>
+        <li>🎓 Análise e Desenvolvimento de Sistemas - UNESA (2023-2025)</li>
         <li>💻 Focado em aprimorar minhas habilidades com <strong>Java, Spring Boot, C, Python e Linux</strong>.</li>
       </ul>
     <h3>🛠️ Tech Stack</h3>
